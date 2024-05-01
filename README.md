@@ -13,4 +13,4 @@ En mis tiempos libres realizo Bug Bounty y CTFs. Aquí podrás encontrar algunos
 
 
 ## HackTheBox Stats
-![TaurusOmar]([https://www.hackthebox.eu/badge/image/271642](https://raw.githubusercontent.com/TaurusOmar/TaurusOmar/main/Unknown.jpeg))
+![TaurusOmar](https://github.com/TaurusOmar/TaurusOmar/blob/main/Unknown.jpeg?raw=true)
