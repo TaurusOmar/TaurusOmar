@@ -14,3 +14,18 @@ Soy Omar Salazar, Hacker actualmente trabajo como Independent CyberSecurity Rese
 
 ## HackTheBox Stats
 ![TaurusOmar](https://github.com/TaurusOmar/TaurusOmar/blob/main/Unknown.jpeg?raw=true)
+
+## Contact Me
+<a href="[https://www.linkedin.com/in/muhdaffa/](https://www.linkedin.com/in/taurusomar/)" target="_blank">
+  <img align="left" alt="Daffa's LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
+</a>
+<a href="https://twitter.com/TaurusOmar_" target="_blank">
+  <img align="left" alt="Daffa's Twitter" width="30px" src="https://img.icons8.com/color/48/000000/twitter.png"/>
+</a>
+<a href="https://xf0.me" target="_blank">
+  <img align="left" alt="Daffa's Website" width="30px" src="https://img.icons8.com/color/48/000000/domain.png" />
+</a>
+<a href="mailto:omar@xf0.me" target="_blank">
+  <img align="left" alt="Daffa's E-Mail" width="30px" src="https://img.icons8.com/color/48/000000/email.png" />
+</a>
+<br>
