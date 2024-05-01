@@ -15,7 +15,24 @@ Soy Omar Salazar, Hacker actualmente trabajo como Independent CyberSecurity Rese
 ## HackTheBox Stats
 ![TaurusOmar](https://github.com/TaurusOmar/TaurusOmar/blob/main/Unknown.jpeg?raw=true)
 
-## Contact Me
+
+## Reportes e Inestigaciones
+
+<a href="https://0day.today/author/1988/3" target="_blank">
+  <img align="left" alt="TaurusOmar's 0day.today" width="150px" src="https://i.imgur.com/zsx4y7T.jpeg"/>
+</a>
+<a href="https://packetstormsecurity.com/files/author/9833/" target="_blank">
+  <img align="left" alt="TaurusOmar's PacketStorm Securuty" width="150px" src="https://i.imgur.com/BCR1oMa.png"/>
+</a>
+<a href="https://www.exploit-db.com/?author=7716" target="_blank">
+  <img align="left" alt="TaurusOmar's Exploit-db" width="150px" src="https://i.imgur.com/QCIyLm6.png"/>
+</a>
+<a href="https://www.wordfence.com/threat-intel/vulnerabilities/researchers/taurus-omar" target="_blank">
+  <img align="left" alt="TaurusOmar's WordFence" width="150px" src="https://i.imgur.com/akAPdRT.jpeg"/>
+</a><br>
+<br>
+
+## Contactar
 <a href="https://www.linkedin.com/in/taurusomar/" target="_blank">
   <img align="left" alt="TaurusOmar's LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
 </a>
@@ -23,9 +40,8 @@ Soy Omar Salazar, Hacker actualmente trabajo como Independent CyberSecurity Rese
   <img align="left" alt="TaurusOmar's Twitter" width="30px" src="https://img.icons8.com/color/48/000000/twitter.png"/>
 </a>
 <a href="https://xf0.me" target="_blank">
-  <img align="left" alt="TaurusOmar's Website" width="30px" src="https://img.icons8.com/color/48/000000/domain.png" />
+  <img align="left" alt="TaurusOmar's Website" width="30px" src="https://img.icons8.com/color/48/000000/domain.png"/>
 </a>
 <a href="mailto:omar@xf0.me" target="_blank">
-  <img align="left" alt="TaurusOmar's E-Mail" width="30px" src="https://img.icons8.com/color/48/000000/email.png" />
+  <img align="left" alt="TaurusOmar's E-Mail" width="30px" src="https://i.imgur.com/Ag72ZdE.png"/>
 </a>
-<br>
