@@ -16,7 +16,7 @@ Soy Omar Salazar, Hacker actualmente trabajo como Independent CyberSecurity Rese
 ![TaurusOmar](https://github.com/TaurusOmar/TaurusOmar/blob/main/Unknown.jpeg?raw=true)
 
 
-## Reportes e Inestigaciones
+## Reportes e Investigaciones
 
 <a href="https://0day.today/author/1988/3" target="_blank">
   <img align="left" alt="TaurusOmar's 0day.today" width="150px" src="https://i.imgur.com/zsx4y7T.jpeg"/>
