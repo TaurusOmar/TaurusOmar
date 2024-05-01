@@ -16,7 +16,7 @@ Soy Omar Salazar, Hacker actualmente trabajo como Independent CyberSecurity Rese
 ![TaurusOmar](https://github.com/TaurusOmar/TaurusOmar/blob/main/Unknown.jpeg?raw=true)
 
 ## Contact Me
-<a href="[https://www.linkedin.com/in/taurusomar/](https://www.linkedin.com/in/taurusomar/)" target="_blank">
+<a href="https://www.linkedin.com/in/taurusomar/" target="_blank">
   <img align="left" alt="TaurusOmar's LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
 </a>
 <a href="https://twitter.com/TaurusOmar_" target="_blank">
