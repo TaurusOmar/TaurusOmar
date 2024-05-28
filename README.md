@@ -12,7 +12,7 @@ Soy Omar Salazar, Hacker actualmente trabajo como Independent CyberSecurity Rese
 </p>
 
 
-## HackTheBox Stats
+## HackTheBox CTF Stats
 ![TaurusOmar](https://github.com/TaurusOmar/TaurusOmar/blob/main/Unknown.jpeg?raw=true)
 
 
